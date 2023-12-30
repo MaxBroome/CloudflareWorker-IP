@@ -1,4 +1,5 @@
 name = "CloudflareWorker-IP"
+main = "index.js"
 type = "javascript"
 
 account_id = "your-account-id"

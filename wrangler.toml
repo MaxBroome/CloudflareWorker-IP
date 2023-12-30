@@ -1,3 +1,9 @@
 name = "CloudflareWorker-IP"
-main = "/cf.js"
-compatibility_date = "2023-12-29"
+type = "javascript"
+
+account_id = "your-account-id"
+
+[env.production]
+workers_dev = true
+route = ""
+zone_id = ""

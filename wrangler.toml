@@ -1,8 +1,6 @@
-name = "CloudflareWorkerIP"
+name = "cloudflareworker-ip"
 main = "index.js"
 type = "javascript"
-
-account_id = "your-account-id"
 
 [env.production]
 workers_dev = true

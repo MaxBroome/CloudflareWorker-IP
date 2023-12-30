@@ -1,4 +1,4 @@
-name = "CloudflareWorker-IP"
+name = "CloudflareWorkerIP"
 main = "index.js"
 type = "javascript"
 

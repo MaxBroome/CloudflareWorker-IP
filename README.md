@@ -4,6 +4,9 @@ Get your public IP address in plaintext, powered by [Cloudflare Workers](https:/
 See an example at [ip.broomfieldnetworks.com](https://ip.broomfieldnetworks.com)
 
 # :rocket: Deploy
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/MaxBroome/CloudflareWorker-IP)
+
+*Or, do it manually.*
 1. [Create a Cloudflare account](https://dash.cloudflare.com/sign-up)
 2. On your account home look at the right side of the page and click "Workers"
 3. Click **"Create Worker"**

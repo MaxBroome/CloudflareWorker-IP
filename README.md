@@ -6,7 +6,12 @@ See an example at [ip.broomfieldnetworks.com](https://ip.broomfieldnetworks.com)
 # :rocket: Deploy
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/MaxBroome/CloudflareWorker-IP)
 
-*Or, do it manually.*
+**After you fork the repository, make sure to change the value for ```account_id``` in ```wrangler.toml``` to your own Cloudflare Acount ID**
+> [!TIP]
+> If you haven't deployed a Cloudflare Worker before, the page might not show your account ID. It can also be found in the URL if you are logged in, and should be random 32 character long string, consisting of letters and numbers.
+![Cloudflare ID Example](https://i.ibb.co/mDFHw1M/cf-id.png)
+
+## :wrench: *Or, do it manually.*
 1. [Create a Cloudflare account](https://dash.cloudflare.com/sign-up)
 2. On your account home look at the right side of the page and click "Workers"
 3. Click **"Create Worker"**

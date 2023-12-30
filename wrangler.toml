@@ -1,5 +1,5 @@
 name = "cloudflareworker-ip"
-main = "src/index.js"
+main = "cf.js"
 type = "javascript"
 
 [env.production]

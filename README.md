@@ -33,3 +33,6 @@ Invoke-WebRequest 'ip.broomfieldnetworks.com' | Select-Object -Expand Content
 </td>
 </tr>
 </table>
+
+> [!NOTE]
+> This script only shows the IP address that connected to it. So if you have IPv4 *and* IPv6, it will only show you the IP in which you connected to it with. Most of the time it will be IPv6.

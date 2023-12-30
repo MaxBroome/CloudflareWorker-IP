@@ -11,7 +11,7 @@ See an example at [ip.broomfieldnetworks.com](https://ip.broomfieldnetworks.com)
 2. On your account home look at the right side of the page and click "Workers"
 3. Click **"Create Worker"**
 > (Optional) Change the URL by clicking on the text box at the top left corner of the page
-4. Paste the content of ```cf.js``` from this repo to the Script tab
+4. Paste the content of ```src/cf.js``` from this repo to the Script tab
 5. Click "Save and Deploy"
 
 # :globe_with_meridians: Usage
